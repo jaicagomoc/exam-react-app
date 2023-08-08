@@ -1,0 +1,10 @@
+.cars-container {
+    padding: 0;
+  }
+  
+  .cars-list-item {
+    display: list-item;
+    list-style-position: inside;
+    margin-bottom: 5px; 
+  }
+  

@@ -1,0 +1,23 @@
+.hello-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .hello-text {
+    margin-right: 10px;
+  }
+  
+  .hello-input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .hello-button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
